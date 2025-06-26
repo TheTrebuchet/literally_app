@@ -48,10 +48,10 @@ flutter build web
 ```
 
 That's it. Simple app, simple setup.
+```
 ├── todo_models.dart    # Data models and persistence logic
 └── todo_widgets.dart   # Reusable UI components
 ```
-
 ## Technical Details
 
 - **State Management**: Simple setState() - no complex state management
